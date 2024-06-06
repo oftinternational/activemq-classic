@@ -1,3 +1,19 @@
 apiVersion: v1
-entries: {}
-generated: "2024-06-06T10:58:39.4971018+02:00"
+entries:
+  activemq:
+  - apiVersion: v1
+    appVersion: 5.17.1
+    created: "2024-06-06T11:42:59.0946529+02:00"
+    description: Apache ActiveMQ is an open source message broker written in Java
+      together with a full Java Message Service (JMS) client
+    digest: 8da9a95cd6a7ba8a64f2c98b5c608c70aac9ef8ea69b5cf7c02e6a86172150a6
+    home: github.com/hm-it/activemq
+    maintainers:
+    - name: disaster37
+    name: activemq
+    sources:
+    - https://github.com/disaster37/activemq-helm
+    urls:
+    - https://oftinternational.github.io/activemq-classic/activemq-5.17.1.tgz
+    version: 5.17.1
+generated: "2024-06-06T11:42:59.0884073+02:00"
